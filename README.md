@@ -14,5 +14,7 @@ A button-based calculator developed using Java Swing.
 
 ## How to Run
 javac Calculator.java
+
 java Calculator
+
 java calculator.java
